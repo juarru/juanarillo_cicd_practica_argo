@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/juarru/juanarillo_cicd_practica.git'
+    repoURL: 'https://github.com/juarru/juanarillo_cicd_practica_argo.git'
     path: 'k8s'
     targetRevision: main
   destination:
