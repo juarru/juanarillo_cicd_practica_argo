@@ -17,7 +17,7 @@ spec:
         - name: flask
           image: juanarillo/cicd_practica:latest
           ports:
-            - containerPort: 8000
+            - containerPort: 5000
           resources:
             limits:
               memory: "512Mi"
