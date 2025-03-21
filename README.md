@@ -47,6 +47,13 @@ Este repositorio contiene los manifiestos de *Kubernetes* para desplegar *ArgoCD
 
 ## Despliegue
 
+Clonamos el Repositorio del proyecto.
+
+```bash
+https://github.com/juarru/juanarillo_cicd_practica_argo.git
+cd juanarillo_cicd_practica_argo
+```
+
 Existe un fichero `install.sh` que realiza casi todo el proceso de manera automática. Damos permisos al fichero para poder ejecutarse y lo lanzamos.
 
 ```bash
